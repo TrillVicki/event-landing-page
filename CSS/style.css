@@ -1,0 +1,12 @@
+.hero {
+    background-image: url(/img/selfcare.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
